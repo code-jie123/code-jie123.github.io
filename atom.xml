@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Code Jie&#39;s Blog</title>
+  <icon>http://example.com/icon.png</icon>
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-10-20T14:32:11.988Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Code Jie</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Servlet+tomcat+数据库搭建Web应用</title>
+    <link href="http://example.com/2021/10/20/Servlet%E5%AE%9E%E7%8E%B0%E5%89%8D%E7%AB%AF%E7%99%BB%E5%BD%95%EF%BC%8C%E5%90%8E%E7%AB%AF%E6%8E%A5%E5%85%A5%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    <id>http://example.com/2021/10/20/Servlet%E5%AE%9E%E7%8E%B0%E5%89%8D%E7%AB%AF%E7%99%BB%E5%BD%95%EF%BC%8C%E5%90%8E%E7%AB%AF%E6%8E%A5%E5%85%A5%E6%95%B0%E6%8D%AE%E5%BA%93/</id>
+    <published>2021-10-20T14:00:00.000Z</published>
+    <updated>2021-10-20T14:32:11.988Z</updated>
+    
+    
+    <summary type="html">使用Servlet+tomcat搭建的一个Web应用案例，从前端页面提交的数据与后端进行交互，并存储到数据库中</summary>
+    
+    
+    
+    <category term="Web应用" scheme="http://example.com/categories/Web%E5%BA%94%E7%94%A8/"/>
+    
+    
+    <category term="-java" scheme="http://example.com/tags/java/"/>
+    
+    <category term="-Servlet" scheme="http://example.com/tags/Servlet/"/>
+    
+    <category term="-数据库" scheme="http://example.com/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>opencv绘图</title>
+    <link href="http://example.com/2021/10/16/opencv%E7%BB%98%E5%9B%BE/"/>
+    <id>http://example.com/2021/10/16/opencv%E7%BB%98%E5%9B%BE/</id>
+    <published>2021-10-16T07:00:00.000Z</published>
+    <updated>2021-10-19T14:04:15.396Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;介绍 opencv 中常用的一些绘图函数&lt;br&gt;cv.line()，cv.circle()，cv.rectangle()，cv.ellipse()，cv.putText()等。&lt;br&gt;在上述所有功能中，有一些常见的参数，如下所示:&lt;/strong&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="OpenCV图像处理" scheme="http://example.com/categories/OpenCV%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    
+    
+    <category term="-python" scheme="http://example.com/tags/python/"/>
+    
+    <category term="-opencv" scheme="http://example.com/tags/opencv/"/>
+    
+    <category term="-图像处理" scheme="http://example.com/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>改变颜色空间</title>
+    <link href="http://example.com/2021/10/16/%E6%94%B9%E5%8F%98%E9%A2%9C%E8%89%B2%E7%A9%BA%E9%97%B4/"/>
+    <id>http://example.com/2021/10/16/%E6%94%B9%E5%8F%98%E9%A2%9C%E8%89%B2%E7%A9%BA%E9%97%B4/</id>
+    <published>2021-10-16T03:00:00.000Z</published>
+    <updated>2021-10-19T13:58:49.977Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;对于颜色转换，使用 cv 函数&lt;code&gt;cvtColor(input_img,flag)&lt;/code&gt;，其中 flag 决定转换的类型&lt;/strong&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="OpenCV图像处理" scheme="http://example.com/categories/OpenCV%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    
+    
+    <category term="-python" scheme="http://example.com/tags/python/"/>
+    
+    <category term="-opencv" scheme="http://example.com/tags/opencv/"/>
+    
+    <category term="-图像处理" scheme="http://example.com/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>直方图增强实验</title>
+    <link href="http://example.com/2021/10/15/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E5%AE%9E%E9%AA%8C(%E4%BA%8C)/"/>
+    <id>http://example.com/2021/10/15/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E5%AE%9E%E9%AA%8C(%E4%BA%8C)/</id>
+    <published>2021-10-15T11:00:00.000Z</published>
+    <updated>2021-10-19T13:59:10.351Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;实验要求&quot;&gt;&lt;a href=&quot;#实验要求&quot; class=&quot;headerlink&quot; title=&quot;实验要求&quot;&gt;&lt;/a&gt;实验要求&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;任意两幅灰度图像，显示它们的直方图，并将其中一幅的直方图传递给另一个图像，显示传递后的图像及其直方图&lt;/strong&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="图像处理实验" scheme="http://example.com/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E5%AE%9E%E9%AA%8C/"/>
+    
+    
+    <category term="-python" scheme="http://example.com/tags/python/"/>
+    
+    <category term="-opencv" scheme="http://example.com/tags/opencv/"/>
+    
+    <category term="-图像处理" scheme="http://example.com/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>图像增强实验</title>
+    <link href="http://example.com/2021/10/15/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E5%AE%9E%E9%AA%8C(%E4%B8%80)/"/>
+    <id>http://example.com/2021/10/15/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E5%AE%9E%E9%AA%8C(%E4%B8%80)/</id>
+    <published>2021-10-15T06:00:00.000Z</published>
+    <updated>2021-10-19T13:59:23.652Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;实验要求&quot;&gt;&lt;a href=&quot;#实验要求&quot; class=&quot;headerlink&quot; title=&quot;实验要求&quot;&gt;&lt;/a&gt;实验要求&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;用多种图像增强方法完成如下人体骨骼核扫描图的增强任务&lt;/strong&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="图像处理实验" scheme="http://example.com/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E5%AE%9E%E9%AA%8C/"/>
+    
+    
+    <category term="-python" scheme="http://example.com/tags/python/"/>
+    
+    <category term="-opencv" scheme="http://example.com/tags/opencv/"/>
+    
+    <category term="-图像处理" scheme="http://example.com/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>图像几何变换</title>
+    <link href="http://example.com/2021/10/08/%E5%9B%BE%E5%83%8F%E5%87%A0%E4%BD%95%E5%8F%98%E6%8D%A2/"/>
+    <id>http://example.com/2021/10/08/%E5%9B%BE%E5%83%8F%E5%87%A0%E4%BD%95%E5%8F%98%E6%8D%A2/</id>
+    <published>2021-10-08T13:00:00.000Z</published>
+    <updated>2021-10-19T13:59:39.553Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;图像的几何变换是图像处理的基础之一，通过几何变换不仅可以产生一些特殊的效果，而且可以简化图像处理过程和分析程序。图像的几何变换最重要的特征是仅改变像素的位置，而不改变图像的像素值。图像的几何变换按性质可以分为图像的位置变换(平移、镜像、旋转)、图像的形状变换(放大、缩小、错切)等基本变换,以及图像的复合变换等。&lt;/strong&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="OpenCV图像处理" scheme="http://example.com/categories/OpenCV%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    
+    
+    <category term="-python" scheme="http://example.com/tags/python/"/>
+    
+    <category term="-opencv" scheme="http://example.com/tags/opencv/"/>
+    
+    <category term="-图像处理" scheme="http://example.com/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>图像形态学</title>
+    <link href="http://example.com/2021/10/05/%E5%9B%BE%E5%83%8F%E5%BD%A2%E6%80%81%E5%AD%A6/"/>
+    <id>http://example.com/2021/10/05/%E5%9B%BE%E5%83%8F%E5%BD%A2%E6%80%81%E5%AD%A6/</id>
+    <published>2021-10-05T10:51:00.000Z</published>
+    <updated>2021-10-19T14:00:45.163Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;数学形态学是图像处理的重要工具，可用于获取&lt;strong&gt;图像边界&lt;/strong&gt;、&lt;strong&gt;提取骨架&lt;/strong&gt;、&lt;strong&gt;去除噪声&lt;/strong&gt;和&lt;strong&gt;检测角点&lt;/strong&gt;，其应用覆盖&lt;br&gt;&lt;strong&gt;文字识别&lt;/strong&gt;、&lt;strong&gt;视觉检测&lt;/strong&gt;和&lt;strong&gt;医学图像处理&lt;/strong&gt;等领域。&lt;/p&gt;
+&lt;p&gt;形态变换是一些基于图像形状的简单操作。形态学处理主要针对的是&lt;strong&gt;二值图像&lt;/strong&gt;(在图像中任何像素点的灰度值只有 0 或 255)&lt;/p&gt;
+&lt;p&gt;两种基本的形态学算子是&lt;strong&gt;腐蚀&lt;/strong&gt;和&lt;strong&gt;膨胀&lt;/strong&gt;。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="OpenCV图像处理" scheme="http://example.com/categories/OpenCV%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    
+    
+    <category term="-python" scheme="http://example.com/tags/python/"/>
+    
+    <category term="-opencv" scheme="http://example.com/tags/opencv/"/>
+    
+    <category term="-图像处理" scheme="http://example.com/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>图像梯度</title>
+    <link href="http://example.com/2021/10/02/%E5%9B%BE%E5%83%8F%E6%A2%AF%E5%BA%A6/"/>
+    <id>http://example.com/2021/10/02/%E5%9B%BE%E5%83%8F%E6%A2%AF%E5%BA%A6/</id>
+    <published>2021-10-02T11:39:00.000Z</published>
+    <updated>2021-10-19T14:00:23.335Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;图像梯度是指图像某像素在x和y两个方向上的变化率(与相邻像素比较)，本质上即导数。&lt;/strong&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="OpenCV图像处理" scheme="http://example.com/categories/OpenCV%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    
+    
+    <category term="-python" scheme="http://example.com/tags/python/"/>
+    
+    <category term="-opencv" scheme="http://example.com/tags/opencv/"/>
+    
+    <category term="-图像处理" scheme="http://example.com/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>图像平滑</title>
+    <link href="http://example.com/2021/09/30/%E5%9B%BE%E5%83%8F%E5%B9%B3%E6%BB%91/"/>
+    <id>http://example.com/2021/09/30/%E5%9B%BE%E5%83%8F%E5%B9%B3%E6%BB%91/</id>
+    <published>2021-09-30T06:00:00.000Z</published>
+    <updated>2021-10-19T14:00:08.317Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;图像平滑是一种区域增强算法，在图像产生、传输和复制的过程中，会因为多方面原因而产生噪声(某一像素与周围像素点相比有明显不同)或丢失数据，因而图像的质量会降低。此时就需要对图像进行一定的增强处理，以降低图像质量带来的影响&lt;/strong&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="OpenCV图像处理" scheme="http://example.com/categories/OpenCV%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    
+    
+    <category term="-python" scheme="http://example.com/tags/python/"/>
+    
+    <category term="-opencv" scheme="http://example.com/tags/opencv/"/>
+    
+    <category term="-图像处理" scheme="http://example.com/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>图像阈值</title>
+    <link href="http://example.com/2021/09/28/%E5%9B%BE%E5%83%8F%E9%98%88%E5%80%BC/"/>
+    <id>http://example.com/2021/09/28/%E5%9B%BE%E5%83%8F%E9%98%88%E5%80%BC/</id>
+    <published>2021-09-28T12:39:16.000Z</published>
+    <updated>2021-10-19T14:01:05.842Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;阈值又叫临界值，是指一个效应能够产生的最低值或最高值&lt;/strong&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="OpenCV图像处理" scheme="http://example.com/categories/OpenCV%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    
+    
+    <category term="-python" scheme="http://example.com/tags/python/"/>
+    
+    <category term="-opencv" scheme="http://example.com/tags/opencv/"/>
+    
+    <category term="-图像处理" scheme="http://example.com/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo博客搭建指南</title>
+    <link href="http://example.com/2021/09/17/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%8C%87%E5%8D%97/"/>
+    <id>http://example.com/2021/09/17/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%8C%87%E5%8D%97/</id>
+    <published>2021-09-17T05:34:06.000Z</published>
+    <updated>2021-10-19T14:03:35.253Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;1-环境部署&quot;&gt;&lt;a href=&quot;#1-环境部署&quot; class=&quot;headerlink&quot; title=&quot;1.环境部署&quot;&gt;&lt;/a&gt;1.环境部署&lt;/h1&gt;&lt;h2 id=&quot;1-1-Nodejs-安装&quot;&gt;&lt;a href=&quot;#1-1-Nodejs-安装&quot; class=&quot;headerlink&quot; title=&quot;1.1 Nodejs 安装&quot;&gt;&lt;/a&gt;1.1 Nodejs 安装&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;进入官网选择对应的系统下载&lt;br&gt;&lt;a href=&quot;https://nodejs.org/en/download/&quot;&gt;https://nodejs.org/en/download/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;下载完成之后，要配置一下环境变量&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;配置好环境变量之后，进入 cmd 命令行窗口输入&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;node -v&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;npm -v &lt;span class=&quot;comment&quot;&gt;#npm为包管理工具&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;显示安装版本号，即安装成功。&lt;/li&gt;
+&lt;/ul&gt;</summary>
+    
+    
+    
+    <category term="Hexo" scheme="http://example.com/categories/Hexo/"/>
+    
+    
+    <category term="-Hexo" scheme="http://example.com/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git常用命令</title>
+    <link href="http://example.com/2021/09/16/Git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
+    <id>http://example.com/2021/09/16/Git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</id>
+    <published>2021-09-16T02:40:15.000Z</published>
+    <updated>2021-10-19T14:15:25.628Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Welcome to Git Introduce,this article will be updated continuously&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&quot;Git-介绍&quot;&gt;&lt;a href=&quot;#Git-介绍&quot; class=&quot;headerlink&quot; title=&quot;Git 介绍&quot;&gt;&lt;/a&gt;Git 介绍&lt;/h1&gt;&lt;p&gt;Git 是一款流行的代码版本管理工具，Git 是分布式版本控制系统，区别于 SVN 和 CSV 这样的集中式版本控制系统。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Git" scheme="http://example.com/categories/Git/"/>
+    
+    
+    <category term="-Git" scheme="http://example.com/tags/Git/"/>
+    
+  </entry>
+  
+</feed>
