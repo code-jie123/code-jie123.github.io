@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Code Jie&#39;s Blog</title>
-  <icon>http://example.com/icon.png</icon>
+  <icon>https://code-jie123.github.io/icon.png</icon>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://code-jie123.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2021-11-03T10:27:19.895Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://code-jie123.github.io/"/>
+  <updated>2021-11-10T13:23:47.935Z</updated>
+  <id>https://code-jie123.github.io/</id>
   
   <author>
     <name>Code Jie</name>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>MVC与三层架构</title>
-    <link href="http://example.com/2021/11/03/MVC%E6%9E%B6%E6%9E%84/"/>
-    <id>http://example.com/2021/11/03/MVC%E6%9E%B6%E6%9E%84/</id>
-    <published>2021-11-03T10:00:00.000Z</published>
-    <updated>2021-11-03T10:27:19.895Z</updated>
+    <title>搭建一个简单的spring项目</title>
+    <link href="https://code-jie123.github.io/2021/11/10/%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84spring%E9%A1%B9%E7%9B%AE/"/>
+    <id>https://code-jie123.github.io/2021/11/10/%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84spring%E9%A1%B9%E7%9B%AE/</id>
+    <published>2021-11-10T13:00:00.000Z</published>
+    <updated>2021-11-10T13:23:47.935Z</updated>
     
     
       
@@ -31,19 +31,43 @@
     
     
     
-    <category term="Java" scheme="http://example.com/categories/Java/"/>
+    <category term="Spring" scheme="https://code-jie123.github.io/categories/Spring/"/>
     
     
-    <category term="-MVC" scheme="http://example.com/tags/MVC/"/>
+    <category term="-Java" scheme="https://code-jie123.github.io/tags/Java/"/>
+    
+    <category term="-Spring" scheme="https://code-jie123.github.io/tags/Spring/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MVC与三层架构</title>
+    <link href="https://code-jie123.github.io/2021/11/03/MVC%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    <id>https://code-jie123.github.io/2021/11/03/MVC%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</id>
+    <published>2021-11-03T10:00:00.000Z</published>
+    <updated>2021-11-10T13:13:39.504Z</updated>
+    
+    
+      
+      
+    <summary type="html"></summary>
+      
+    
+    
+    
+    <category term="Java" scheme="https://code-jie123.github.io/categories/Java/"/>
+    
+    
+    <category term="-MVC" scheme="https://code-jie123.github.io/tags/MVC/"/>
     
   </entry>
   
   <entry>
     <title>Servlet相关知识</title>
-    <link href="http://example.com/2021/10/28/Servlet/"/>
-    <id>http://example.com/2021/10/28/Servlet/</id>
+    <link href="https://code-jie123.github.io/2021/10/28/Servlet/"/>
+    <id>https://code-jie123.github.io/2021/10/28/Servlet/</id>
     <published>2021-10-28T08:00:00.000Z</published>
-    <updated>2021-11-02T13:43:42.938Z</updated>
+    <updated>2021-11-10T13:12:42.588Z</updated>
     
     
       
@@ -53,42 +77,42 @@
     
     
     
-    <category term="Web开发" scheme="http://example.com/categories/Web%E5%BC%80%E5%8F%91/"/>
+    <category term="Web开发" scheme="https://code-jie123.github.io/categories/Web%E5%BC%80%E5%8F%91/"/>
     
     
-    <category term="-java" scheme="http://example.com/tags/java/"/>
+    <category term="-Servlet" scheme="https://code-jie123.github.io/tags/Servlet/"/>
     
-    <category term="-Servlet" scheme="http://example.com/tags/Servlet/"/>
+    <category term="-Java" scheme="https://code-jie123.github.io/tags/Java/"/>
     
   </entry>
   
   <entry>
     <title>Servlet+tomcat+数据库搭建Web应用</title>
-    <link href="http://example.com/2021/10/20/Servlet%E5%AE%9E%E7%8E%B0%E5%89%8D%E7%AB%AF%E7%99%BB%E5%BD%95%EF%BC%8C%E5%90%8E%E7%AB%AF%E6%8E%A5%E5%85%A5%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
-    <id>http://example.com/2021/10/20/Servlet%E5%AE%9E%E7%8E%B0%E5%89%8D%E7%AB%AF%E7%99%BB%E5%BD%95%EF%BC%8C%E5%90%8E%E7%AB%AF%E6%8E%A5%E5%85%A5%E6%95%B0%E6%8D%AE%E5%BA%93/</id>
+    <link href="https://code-jie123.github.io/2021/10/20/servlet%E8%BF%9E%E6%8E%A5%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    <id>https://code-jie123.github.io/2021/10/20/servlet%E8%BF%9E%E6%8E%A5%E6%95%B0%E6%8D%AE%E5%BA%93/</id>
     <published>2021-10-20T14:00:00.000Z</published>
-    <updated>2021-11-02T13:44:09.127Z</updated>
+    <updated>2021-11-10T13:12:50.477Z</updated>
     
     
     <summary type="html">使用Servlet+tomcat搭建的一个Web应用案例，从前端页面提交的数据与后端进行交互，并存储到数据库中</summary>
     
     
     
-    <category term="Web开发" scheme="http://example.com/categories/Web%E5%BC%80%E5%8F%91/"/>
+    <category term="Web开发" scheme="https://code-jie123.github.io/categories/Web%E5%BC%80%E5%8F%91/"/>
     
     
-    <category term="-java" scheme="http://example.com/tags/java/"/>
+    <category term="-Servlet" scheme="https://code-jie123.github.io/tags/Servlet/"/>
     
-    <category term="-Servlet" scheme="http://example.com/tags/Servlet/"/>
+    <category term="-数据库" scheme="https://code-jie123.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
     
-    <category term="-数据库" scheme="http://example.com/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    <category term="-Java" scheme="https://code-jie123.github.io/tags/Java/"/>
     
   </entry>
   
   <entry>
     <title>opencv绘图</title>
-    <link href="http://example.com/2021/10/16/opencv%E7%BB%98%E5%9B%BE/"/>
-    <id>http://example.com/2021/10/16/opencv%E7%BB%98%E5%9B%BE/</id>
+    <link href="https://code-jie123.github.io/2021/10/16/opencv%E7%BB%98%E5%9B%BE/"/>
+    <id>https://code-jie123.github.io/2021/10/16/opencv%E7%BB%98%E5%9B%BE/</id>
     <published>2021-10-16T07:00:00.000Z</published>
     <updated>2021-10-19T14:04:15.396Z</updated>
     
@@ -97,21 +121,21 @@
     
     
     
-    <category term="OpenCV图像处理" scheme="http://example.com/categories/OpenCV%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    <category term="OpenCV图像处理" scheme="https://code-jie123.github.io/categories/OpenCV%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
     
     
-    <category term="-python" scheme="http://example.com/tags/python/"/>
+    <category term="-python" scheme="https://code-jie123.github.io/tags/python/"/>
     
-    <category term="-opencv" scheme="http://example.com/tags/opencv/"/>
+    <category term="-opencv" scheme="https://code-jie123.github.io/tags/opencv/"/>
     
-    <category term="-图像处理" scheme="http://example.com/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    <category term="-图像处理" scheme="https://code-jie123.github.io/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
     
   </entry>
   
   <entry>
     <title>改变颜色空间</title>
-    <link href="http://example.com/2021/10/16/%E6%94%B9%E5%8F%98%E9%A2%9C%E8%89%B2%E7%A9%BA%E9%97%B4/"/>
-    <id>http://example.com/2021/10/16/%E6%94%B9%E5%8F%98%E9%A2%9C%E8%89%B2%E7%A9%BA%E9%97%B4/</id>
+    <link href="https://code-jie123.github.io/2021/10/16/%E6%94%B9%E5%8F%98%E9%A2%9C%E8%89%B2%E7%A9%BA%E9%97%B4/"/>
+    <id>https://code-jie123.github.io/2021/10/16/%E6%94%B9%E5%8F%98%E9%A2%9C%E8%89%B2%E7%A9%BA%E9%97%B4/</id>
     <published>2021-10-16T03:00:00.000Z</published>
     <updated>2021-10-19T13:58:49.977Z</updated>
     
@@ -120,21 +144,21 @@
     
     
     
-    <category term="OpenCV图像处理" scheme="http://example.com/categories/OpenCV%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    <category term="OpenCV图像处理" scheme="https://code-jie123.github.io/categories/OpenCV%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
     
     
-    <category term="-python" scheme="http://example.com/tags/python/"/>
+    <category term="-python" scheme="https://code-jie123.github.io/tags/python/"/>
     
-    <category term="-opencv" scheme="http://example.com/tags/opencv/"/>
+    <category term="-opencv" scheme="https://code-jie123.github.io/tags/opencv/"/>
     
-    <category term="-图像处理" scheme="http://example.com/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    <category term="-图像处理" scheme="https://code-jie123.github.io/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
     
   </entry>
   
   <entry>
     <title>直方图增强实验</title>
-    <link href="http://example.com/2021/10/15/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E5%AE%9E%E9%AA%8C(%E4%BA%8C)/"/>
-    <id>http://example.com/2021/10/15/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E5%AE%9E%E9%AA%8C(%E4%BA%8C)/</id>
+    <link href="https://code-jie123.github.io/2021/10/15/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E5%AE%9E%E9%AA%8C(%E4%BA%8C)/"/>
+    <id>https://code-jie123.github.io/2021/10/15/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E5%AE%9E%E9%AA%8C(%E4%BA%8C)/</id>
     <published>2021-10-15T11:00:00.000Z</published>
     <updated>2021-10-19T13:59:10.351Z</updated>
     
@@ -143,21 +167,21 @@
     
     
     
-    <category term="图像处理实验" scheme="http://example.com/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E5%AE%9E%E9%AA%8C/"/>
+    <category term="图像处理实验" scheme="https://code-jie123.github.io/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E5%AE%9E%E9%AA%8C/"/>
     
     
-    <category term="-python" scheme="http://example.com/tags/python/"/>
+    <category term="-python" scheme="https://code-jie123.github.io/tags/python/"/>
     
-    <category term="-opencv" scheme="http://example.com/tags/opencv/"/>
+    <category term="-opencv" scheme="https://code-jie123.github.io/tags/opencv/"/>
     
-    <category term="-图像处理" scheme="http://example.com/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    <category term="-图像处理" scheme="https://code-jie123.github.io/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
     
   </entry>
   
   <entry>
     <title>图像增强实验</title>
-    <link href="http://example.com/2021/10/15/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E5%AE%9E%E9%AA%8C(%E4%B8%80)/"/>
-    <id>http://example.com/2021/10/15/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E5%AE%9E%E9%AA%8C(%E4%B8%80)/</id>
+    <link href="https://code-jie123.github.io/2021/10/15/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E5%AE%9E%E9%AA%8C(%E4%B8%80)/"/>
+    <id>https://code-jie123.github.io/2021/10/15/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E5%AE%9E%E9%AA%8C(%E4%B8%80)/</id>
     <published>2021-10-15T06:00:00.000Z</published>
     <updated>2021-10-19T13:59:23.652Z</updated>
     
@@ -166,21 +190,21 @@
     
     
     
-    <category term="图像处理实验" scheme="http://example.com/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E5%AE%9E%E9%AA%8C/"/>
+    <category term="图像处理实验" scheme="https://code-jie123.github.io/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E5%AE%9E%E9%AA%8C/"/>
     
     
-    <category term="-python" scheme="http://example.com/tags/python/"/>
+    <category term="-python" scheme="https://code-jie123.github.io/tags/python/"/>
     
-    <category term="-opencv" scheme="http://example.com/tags/opencv/"/>
+    <category term="-opencv" scheme="https://code-jie123.github.io/tags/opencv/"/>
     
-    <category term="-图像处理" scheme="http://example.com/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    <category term="-图像处理" scheme="https://code-jie123.github.io/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
     
   </entry>
   
   <entry>
     <title>图像几何变换</title>
-    <link href="http://example.com/2021/10/08/%E5%9B%BE%E5%83%8F%E5%87%A0%E4%BD%95%E5%8F%98%E6%8D%A2/"/>
-    <id>http://example.com/2021/10/08/%E5%9B%BE%E5%83%8F%E5%87%A0%E4%BD%95%E5%8F%98%E6%8D%A2/</id>
+    <link href="https://code-jie123.github.io/2021/10/08/%E5%9B%BE%E5%83%8F%E5%87%A0%E4%BD%95%E5%8F%98%E6%8D%A2/"/>
+    <id>https://code-jie123.github.io/2021/10/08/%E5%9B%BE%E5%83%8F%E5%87%A0%E4%BD%95%E5%8F%98%E6%8D%A2/</id>
     <published>2021-10-08T13:00:00.000Z</published>
     <updated>2021-10-19T13:59:39.553Z</updated>
     
@@ -189,21 +213,21 @@
     
     
     
-    <category term="OpenCV图像处理" scheme="http://example.com/categories/OpenCV%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    <category term="OpenCV图像处理" scheme="https://code-jie123.github.io/categories/OpenCV%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
     
     
-    <category term="-python" scheme="http://example.com/tags/python/"/>
+    <category term="-python" scheme="https://code-jie123.github.io/tags/python/"/>
     
-    <category term="-opencv" scheme="http://example.com/tags/opencv/"/>
+    <category term="-opencv" scheme="https://code-jie123.github.io/tags/opencv/"/>
     
-    <category term="-图像处理" scheme="http://example.com/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    <category term="-图像处理" scheme="https://code-jie123.github.io/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
     
   </entry>
   
   <entry>
     <title>图像形态学</title>
-    <link href="http://example.com/2021/10/05/%E5%9B%BE%E5%83%8F%E5%BD%A2%E6%80%81%E5%AD%A6/"/>
-    <id>http://example.com/2021/10/05/%E5%9B%BE%E5%83%8F%E5%BD%A2%E6%80%81%E5%AD%A6/</id>
+    <link href="https://code-jie123.github.io/2021/10/05/%E5%9B%BE%E5%83%8F%E5%BD%A2%E6%80%81%E5%AD%A6/"/>
+    <id>https://code-jie123.github.io/2021/10/05/%E5%9B%BE%E5%83%8F%E5%BD%A2%E6%80%81%E5%AD%A6/</id>
     <published>2021-10-05T10:51:00.000Z</published>
     <updated>2021-10-19T14:00:45.163Z</updated>
     
@@ -214,21 +238,21 @@
     
     
     
-    <category term="OpenCV图像处理" scheme="http://example.com/categories/OpenCV%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    <category term="OpenCV图像处理" scheme="https://code-jie123.github.io/categories/OpenCV%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
     
     
-    <category term="-python" scheme="http://example.com/tags/python/"/>
+    <category term="-python" scheme="https://code-jie123.github.io/tags/python/"/>
     
-    <category term="-opencv" scheme="http://example.com/tags/opencv/"/>
+    <category term="-opencv" scheme="https://code-jie123.github.io/tags/opencv/"/>
     
-    <category term="-图像处理" scheme="http://example.com/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    <category term="-图像处理" scheme="https://code-jie123.github.io/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
     
   </entry>
   
   <entry>
     <title>图像梯度</title>
-    <link href="http://example.com/2021/10/02/%E5%9B%BE%E5%83%8F%E6%A2%AF%E5%BA%A6/"/>
-    <id>http://example.com/2021/10/02/%E5%9B%BE%E5%83%8F%E6%A2%AF%E5%BA%A6/</id>
+    <link href="https://code-jie123.github.io/2021/10/02/%E5%9B%BE%E5%83%8F%E6%A2%AF%E5%BA%A6/"/>
+    <id>https://code-jie123.github.io/2021/10/02/%E5%9B%BE%E5%83%8F%E6%A2%AF%E5%BA%A6/</id>
     <published>2021-10-02T11:39:00.000Z</published>
     <updated>2021-10-19T14:00:23.335Z</updated>
     
@@ -237,21 +261,21 @@
     
     
     
-    <category term="OpenCV图像处理" scheme="http://example.com/categories/OpenCV%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    <category term="OpenCV图像处理" scheme="https://code-jie123.github.io/categories/OpenCV%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
     
     
-    <category term="-python" scheme="http://example.com/tags/python/"/>
+    <category term="-python" scheme="https://code-jie123.github.io/tags/python/"/>
     
-    <category term="-opencv" scheme="http://example.com/tags/opencv/"/>
+    <category term="-opencv" scheme="https://code-jie123.github.io/tags/opencv/"/>
     
-    <category term="-图像处理" scheme="http://example.com/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    <category term="-图像处理" scheme="https://code-jie123.github.io/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
     
   </entry>
   
   <entry>
     <title>图像平滑</title>
-    <link href="http://example.com/2021/09/30/%E5%9B%BE%E5%83%8F%E5%B9%B3%E6%BB%91/"/>
-    <id>http://example.com/2021/09/30/%E5%9B%BE%E5%83%8F%E5%B9%B3%E6%BB%91/</id>
+    <link href="https://code-jie123.github.io/2021/09/30/%E5%9B%BE%E5%83%8F%E5%B9%B3%E6%BB%91/"/>
+    <id>https://code-jie123.github.io/2021/09/30/%E5%9B%BE%E5%83%8F%E5%B9%B3%E6%BB%91/</id>
     <published>2021-09-30T06:00:00.000Z</published>
     <updated>2021-10-19T14:00:08.317Z</updated>
     
@@ -260,21 +284,21 @@
     
     
     
-    <category term="OpenCV图像处理" scheme="http://example.com/categories/OpenCV%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    <category term="OpenCV图像处理" scheme="https://code-jie123.github.io/categories/OpenCV%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
     
     
-    <category term="-python" scheme="http://example.com/tags/python/"/>
+    <category term="-python" scheme="https://code-jie123.github.io/tags/python/"/>
     
-    <category term="-opencv" scheme="http://example.com/tags/opencv/"/>
+    <category term="-opencv" scheme="https://code-jie123.github.io/tags/opencv/"/>
     
-    <category term="-图像处理" scheme="http://example.com/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    <category term="-图像处理" scheme="https://code-jie123.github.io/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
     
   </entry>
   
   <entry>
     <title>图像阈值</title>
-    <link href="http://example.com/2021/09/28/%E5%9B%BE%E5%83%8F%E9%98%88%E5%80%BC/"/>
-    <id>http://example.com/2021/09/28/%E5%9B%BE%E5%83%8F%E9%98%88%E5%80%BC/</id>
+    <link href="https://code-jie123.github.io/2021/09/28/%E5%9B%BE%E5%83%8F%E9%98%88%E5%80%BC/"/>
+    <id>https://code-jie123.github.io/2021/09/28/%E5%9B%BE%E5%83%8F%E9%98%88%E5%80%BC/</id>
     <published>2021-09-28T12:39:16.000Z</published>
     <updated>2021-10-19T14:01:05.842Z</updated>
     
@@ -283,21 +307,21 @@
     
     
     
-    <category term="OpenCV图像处理" scheme="http://example.com/categories/OpenCV%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    <category term="OpenCV图像处理" scheme="https://code-jie123.github.io/categories/OpenCV%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
     
     
-    <category term="-python" scheme="http://example.com/tags/python/"/>
+    <category term="-python" scheme="https://code-jie123.github.io/tags/python/"/>
     
-    <category term="-opencv" scheme="http://example.com/tags/opencv/"/>
+    <category term="-opencv" scheme="https://code-jie123.github.io/tags/opencv/"/>
     
-    <category term="-图像处理" scheme="http://example.com/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
+    <category term="-图像处理" scheme="https://code-jie123.github.io/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
     
   </entry>
   
   <entry>
     <title>Hexo博客搭建指南</title>
-    <link href="http://example.com/2021/09/17/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%8C%87%E5%8D%97/"/>
-    <id>http://example.com/2021/09/17/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%8C%87%E5%8D%97/</id>
+    <link href="https://code-jie123.github.io/2021/09/17/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%8C%87%E5%8D%97/"/>
+    <id>https://code-jie123.github.io/2021/09/17/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%8C%87%E5%8D%97/</id>
     <published>2021-09-17T05:34:06.000Z</published>
     <updated>2021-10-19T14:03:35.253Z</updated>
     
@@ -318,17 +342,17 @@
     
     
     
-    <category term="Hexo" scheme="http://example.com/categories/Hexo/"/>
+    <category term="Hexo" scheme="https://code-jie123.github.io/categories/Hexo/"/>
     
     
-    <category term="-Hexo" scheme="http://example.com/tags/Hexo/"/>
+    <category term="-Hexo" scheme="https://code-jie123.github.io/tags/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>Git常用命令</title>
-    <link href="http://example.com/2021/09/16/Git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
-    <id>http://example.com/2021/09/16/Git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</id>
+    <link href="https://code-jie123.github.io/2021/09/16/Git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
+    <id>https://code-jie123.github.io/2021/09/16/Git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</id>
     <published>2021-09-16T02:40:15.000Z</published>
     <updated>2021-10-19T14:15:25.628Z</updated>
     
@@ -338,10 +362,10 @@
     
     
     
-    <category term="Git" scheme="http://example.com/categories/Git/"/>
+    <category term="Git" scheme="https://code-jie123.github.io/categories/Git/"/>
     
     
-    <category term="-Git" scheme="http://example.com/tags/Git/"/>
+    <category term="-Git" scheme="https://code-jie123.github.io/tags/Git/"/>
     
   </entry>
   
