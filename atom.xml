@@ -6,7 +6,7 @@
   <link href="https://code-jie123.github.io/atom.xml" rel="self"/>
   
   <link href="https://code-jie123.github.io/"/>
-  <updated>2021-11-10T13:23:47.935Z</updated>
+  <updated>2021-11-11T07:52:14.276Z</updated>
   <id>https://code-jie123.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Vuex</title>
+    <link href="https://code-jie123.github.io/2021/11/11/vuex/"/>
+    <id>https://code-jie123.github.io/2021/11/11/vuex/</id>
+    <published>2021-11-11T07:00:00.000Z</published>
+    <updated>2021-11-11T07:52:14.276Z</updated>
+    
+    
+      
+      
+    <summary type="html"></summary>
+      
+    
+    
+    
+    <category term="Vue" scheme="https://code-jie123.github.io/categories/Vue/"/>
+    
+    
+    <category term="-vue" scheme="https://code-jie123.github.io/tags/vue/"/>
+    
+    <category term="-vuex" scheme="https://code-jie123.github.io/tags/vuex/"/>
+    
+  </entry>
   
   <entry>
     <title>搭建一个简单的spring项目</title>
