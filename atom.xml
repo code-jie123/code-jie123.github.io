@@ -104,9 +104,9 @@
     <category term="Web开发" scheme="https://code-jie123.github.io/categories/Web%E5%BC%80%E5%8F%91/"/>
     
     
-    <category term="-Servlet" scheme="https://code-jie123.github.io/tags/Servlet/"/>
-    
     <category term="-Java" scheme="https://code-jie123.github.io/tags/Java/"/>
+    
+    <category term="-Servlet" scheme="https://code-jie123.github.io/tags/Servlet/"/>
     
   </entry>
   
@@ -125,11 +125,11 @@
     <category term="Web开发" scheme="https://code-jie123.github.io/categories/Web%E5%BC%80%E5%8F%91/"/>
     
     
+    <category term="-Java" scheme="https://code-jie123.github.io/tags/Java/"/>
+    
     <category term="-Servlet" scheme="https://code-jie123.github.io/tags/Servlet/"/>
     
     <category term="-数据库" scheme="https://code-jie123.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
-    
-    <category term="-Java" scheme="https://code-jie123.github.io/tags/Java/"/>
     
   </entry>
   

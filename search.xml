@@ -99,9 +99,9 @@
       
         <tags>
             
-            <tag> -Servlet </tag>
-            
             <tag> -Java </tag>
+            
+            <tag> -Servlet </tag>
             
         </tags>
       
@@ -126,11 +126,11 @@
       
         <tags>
             
+            <tag> -Java </tag>
+            
             <tag> -Servlet </tag>
             
             <tag> -数据库 </tag>
-            
-            <tag> -Java </tag>
             
         </tags>
       
