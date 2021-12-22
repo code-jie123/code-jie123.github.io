@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>树</title>
+      <link href="/2021/12/22/%E6%A0%91/"/>
+      <url>/2021/12/22/%E6%A0%91/</url>
+      
+        <content type="html"><![CDATA[<h2 id="树的定义"><a href="#树的定义" class="headerlink" title="树的定义"></a>树的定义</h2><p>树是 n(n≥0)个结点的有限集，当 n=0 时，称为空树。</p><p>在任意非空树中满足：</p><ul><li>有且仅有一个特定的根</li><li>当 n&gt;1 时，其余结点可分为 m(m&gt;0)个互不相交的有限集 T1,T2,…,Tm,其中每个集合本身又是一颗树，并且称为根的<strong>子树</strong></li></ul><p>树的定义是递归的，即<strong>树是一种递归的数据结构</strong></p><p>树结构的特点：</p><ul><li>树的根结点没有前驱结点，除根结点以外的所有结点有且只有一个前驱结点</li><li>树中所有结点可以有 0 或多个后继结点</li></ul><h2 id="基本概念"><a href="#基本概念" class="headerlink" title="基本概念"></a>基本概念</h2><ul><li>结点的度：一个结点的子树个数</li><li>树的度：树中结点的最大度数</li><li>叶结点：度为 0 的结点，也叫终结结点</li><li>非叶结点：度不为 0 的结点，也叫非终结结点</li><li>结点的深度：从根结点开始自顶向下逐层累加</li><li>结点的层次：从树根开始，根结点为第一层，它的子结点为第 2 层，以此类推</li><li>路径长度(路长)：等于路径中结点数-1</li><li>结点的高度：结点到叶结点的最大路长+1</li><li>树的高度：即根结点的高度，也是该树中所有结点中的最大层号</li><li>有序树：树中结点的各子树从左到右都是有次序的，不能互换，否则称为无序树</li><li>森林：森林是 m(m≥0)棵互不相交的树的集合，将树的根结点去掉就成为森林。</li></ul><h2 id="树的性质"><a href="#树的性质" class="headerlink" title="树的性质"></a>树的性质</h2><ul><li><p>1.树中的结点数等于所有结点的度数和+1</p></li><li><p>2.度为 m 的树中第 i 层上至多有 ${m^{i-1}}$ 个结点</p></li><li><p>3.高度为 h 的 m 叉树至多有${(m^{h}-1)}/{(m-1)}$个结点</p></li><li><p>4.具有 n 个结点的 m 叉树的最小高度为${\lceil \log_m{(n(m-1)+1)} \rceil}$</p><p><img src="https://cdn.jsdelivr.net/gh/code-jie123/code-jie123cdn/202112221057084.png"></p></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 数据结构 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> -树 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>排序算法</title>
       <link href="/2021/12/13/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/"/>
       <url>/2021/12/13/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/</url>
