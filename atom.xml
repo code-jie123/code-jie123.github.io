@@ -6,7 +6,7 @@
   <link href="https://code-jie123.github.io/atom.xml" rel="self"/>
   
   <link href="https://code-jie123.github.io/"/>
-  <updated>2021-12-22T14:19:31.097Z</updated>
+  <updated>2021-12-23T11:31:25.890Z</updated>
   <id>https://code-jie123.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Vue插槽</title>
+    <link href="https://code-jie123.github.io/2021/12/23/%E6%8F%92%E6%A7%BD/"/>
+    <id>https://code-jie123.github.io/2021/12/23/%E6%8F%92%E6%A7%BD/</id>
+    <published>2021-12-23T11:30:00.000Z</published>
+    <updated>2021-12-23T11:31:25.890Z</updated>
+    
+    
+      
+      
+    <summary type="html"></summary>
+      
+    
+    
+    
+    <category term="Vue" scheme="https://code-jie123.github.io/categories/Vue/"/>
+    
+    
+    <category term="-vue" scheme="https://code-jie123.github.io/tags/vue/"/>
+    
+  </entry>
   
   <entry>
     <title>树</title>
