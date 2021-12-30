@@ -6,7 +6,7 @@
   <link href="https://code-jie123.github.io/atom.xml" rel="self"/>
   
   <link href="https://code-jie123.github.io/"/>
-  <updated>2021-12-23T11:31:25.890Z</updated>
+  <updated>2021-12-30T08:21:21.991Z</updated>
   <id>https://code-jie123.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>axios</title>
+    <link href="https://code-jie123.github.io/2021/12/30/vue-axios/"/>
+    <id>https://code-jie123.github.io/2021/12/30/vue-axios/</id>
+    <published>2021-12-30T08:25:00.000Z</published>
+    <updated>2021-12-30T08:21:21.991Z</updated>
+    
+    
+      
+      
+    <summary type="html"></summary>
+      
+    
+    
+    
+    <category term="Vue" scheme="https://code-jie123.github.io/categories/Vue/"/>
+    
+    
+    <category term="-vue" scheme="https://code-jie123.github.io/tags/vue/"/>
+    
+    <category term="-axios" scheme="https://code-jie123.github.io/tags/axios/"/>
+    
+  </entry>
   
   <entry>
     <title>Vue插槽</title>
@@ -65,7 +89,7 @@
     <link href="https://code-jie123.github.io/2021/12/13/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/"/>
     <id>https://code-jie123.github.io/2021/12/13/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/</id>
     <published>2021-12-13T11:00:00.000Z</published>
-    <updated>2021-12-13T13:54:46.675Z</updated>
+    <updated>2021-12-30T08:37:35.741Z</updated>
     
     
       
@@ -181,7 +205,7 @@
     <link href="https://code-jie123.github.io/2021/10/20/servlet%E8%BF%9E%E6%8E%A5%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
     <id>https://code-jie123.github.io/2021/10/20/servlet%E8%BF%9E%E6%8E%A5%E6%95%B0%E6%8D%AE%E5%BA%93/</id>
     <published>2021-10-20T14:00:00.000Z</published>
-    <updated>2021-11-10T13:12:50.477Z</updated>
+    <updated>2021-12-25T10:00:46.510Z</updated>
     
     
     <summary type="html">使用Servlet+tomcat搭建的一个Web应用案例，从前端页面提交的数据与后端进行交互，并存储到数据库中</summary>
