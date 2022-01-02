@@ -6,7 +6,7 @@
   <link href="https://code-jie123.github.io/atom.xml" rel="self"/>
   
   <link href="https://code-jie123.github.io/"/>
-  <updated>2021-12-30T08:21:21.991Z</updated>
+  <updated>2022-01-02T13:15:13.444Z</updated>
   <id>https://code-jie123.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>操作系统调度算法</title>
+    <link href="https://code-jie123.github.io/2022/01/02/%E5%85%B8%E5%9E%8B%E7%9A%84%E8%B0%83%E5%BA%A6%E7%AE%97%E6%B3%95/"/>
+    <id>https://code-jie123.github.io/2022/01/02/%E5%85%B8%E5%9E%8B%E7%9A%84%E8%B0%83%E5%BA%A6%E7%AE%97%E6%B3%95/</id>
+    <published>2022-01-02T13:00:00.000Z</published>
+    <updated>2022-01-02T13:15:13.444Z</updated>
+    
+    
+      
+      
+    <summary type="html"></summary>
+      
+    
+    
+    
+    <category term="算法" scheme="https://code-jie123.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+    <category term="-算法" scheme="https://code-jie123.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    
+    <category term="-操作系统" scheme="https://code-jie123.github.io/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
   
   <entry>
     <title>axios</title>
@@ -460,26 +484,6 @@
     
     
     <category term="-Hexo" scheme="https://code-jie123.github.io/tags/Hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Git常用命令</title>
-    <link href="https://code-jie123.github.io/2021/09/16/Git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
-    <id>https://code-jie123.github.io/2021/09/16/Git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</id>
-    <published>2021-09-16T02:40:15.000Z</published>
-    <updated>2021-10-19T14:15:25.628Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;strong&gt;Welcome to Git Introduce,this article will be updated continuously&lt;/strong&gt;&lt;/p&gt;
-&lt;h1 id=&quot;Git-介绍&quot;&gt;&lt;a href=&quot;#Git-介绍&quot; class=&quot;headerlink&quot; title=&quot;Git 介绍&quot;&gt;&lt;/a&gt;Git 介绍&lt;/h1&gt;&lt;p&gt;Git 是一款流行的代码版本管理工具，Git 是分布式版本控制系统，区别于 SVN 和 CSV 这样的集中式版本控制系统。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="Git" scheme="https://code-jie123.github.io/categories/Git/"/>
-    
-    
-    <category term="-Git" scheme="https://code-jie123.github.io/tags/Git/"/>
     
   </entry>
   
