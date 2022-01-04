@@ -6,7 +6,7 @@
   <link href="https://code-jie123.github.io/atom.xml" rel="self"/>
   
   <link href="https://code-jie123.github.io/"/>
-  <updated>2022-01-02T13:15:13.444Z</updated>
+  <updated>2022-01-04T12:57:07.352Z</updated>
   <id>https://code-jie123.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>银行家算法</title>
+    <link href="https://code-jie123.github.io/2022/01/04/%E9%93%B6%E8%A1%8C%E5%AE%B6%E7%AE%97%E6%B3%95/"/>
+    <id>https://code-jie123.github.io/2022/01/04/%E9%93%B6%E8%A1%8C%E5%AE%B6%E7%AE%97%E6%B3%95/</id>
+    <published>2022-01-04T13:00:00.000Z</published>
+    <updated>2022-01-04T12:57:07.352Z</updated>
+    
+    
+      
+      
+    <summary type="html"></summary>
+      
+    
+    
+    
+    <category term="算法" scheme="https://code-jie123.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+    <category term="-算法" scheme="https://code-jie123.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    
+    <category term="-操作系统" scheme="https://code-jie123.github.io/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
   
   <entry>
     <title>操作系统调度算法</title>
@@ -453,37 +477,6 @@
     <category term="-opencv" scheme="https://code-jie123.github.io/tags/opencv/"/>
     
     <category term="-图像处理" scheme="https://code-jie123.github.io/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hexo博客搭建指南</title>
-    <link href="https://code-jie123.github.io/2021/09/17/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%8C%87%E5%8D%97/"/>
-    <id>https://code-jie123.github.io/2021/09/17/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%8C%87%E5%8D%97/</id>
-    <published>2021-09-17T05:34:06.000Z</published>
-    <updated>2021-10-19T14:03:35.253Z</updated>
-    
-    
-    <summary type="html">&lt;h1 id=&quot;1-环境部署&quot;&gt;&lt;a href=&quot;#1-环境部署&quot; class=&quot;headerlink&quot; title=&quot;1.环境部署&quot;&gt;&lt;/a&gt;1.环境部署&lt;/h1&gt;&lt;h2 id=&quot;1-1-Nodejs-安装&quot;&gt;&lt;a href=&quot;#1-1-Nodejs-安装&quot; class=&quot;headerlink&quot; title=&quot;1.1 Nodejs 安装&quot;&gt;&lt;/a&gt;1.1 Nodejs 安装&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;进入官网选择对应的系统下载&lt;br&gt;&lt;a href=&quot;https://nodejs.org/en/download/&quot;&gt;https://nodejs.org/en/download/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;下载完成之后，要配置一下环境变量&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;配置好环境变量之后，进入 cmd 命令行窗口输入&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;node -v&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;npm -v &lt;span class=&quot;comment&quot;&gt;#npm为包管理工具&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;ul&gt;
-&lt;li&gt;显示安装版本号，即安装成功。&lt;/li&gt;
-&lt;/ul&gt;</summary>
-    
-    
-    
-    <category term="Hexo" scheme="https://code-jie123.github.io/categories/Hexo/"/>
-    
-    
-    <category term="-Hexo" scheme="https://code-jie123.github.io/tags/Hexo/"/>
     
   </entry>
   
