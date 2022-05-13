@@ -6,7 +6,7 @@
   <link href="https://code-jie123.github.io/atom.xml" rel="self"/>
   
   <link href="https://code-jie123.github.io/"/>
-  <updated>2022-02-24T10:05:20.227Z</updated>
+  <updated>2022-05-13T16:51:44.495Z</updated>
   <id>https://code-jie123.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>编译原理笔记</title>
+    <link href="https://code-jie123.github.io/2022/05/14/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E7%9F%A5%E8%AF%86%E6%80%BB%E7%BB%93/"/>
+    <id>https://code-jie123.github.io/2022/05/14/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E7%9F%A5%E8%AF%86%E6%80%BB%E7%BB%93/</id>
+    <published>2022-05-13T16:30:00.000Z</published>
+    <updated>2022-05-13T16:51:44.495Z</updated>
+    
+    
+    <summary type="html">这是一篇加密博文，请输入密码后查看</summary>
+    
+    
+    
+    <category term="编译原理" scheme="https://code-jie123.github.io/categories/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/"/>
+    
+    
+    <category term="-编译原理" scheme="https://code-jie123.github.io/tags/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/"/>
+    
+  </entry>
   
   <entry>
     <title>计算机网络-物理层</title>
@@ -438,31 +457,6 @@
     
     
     <summary type="html">&lt;p&gt;&lt;strong&gt;图像的几何变换是图像处理的基础之一，通过几何变换不仅可以产生一些特殊的效果，而且可以简化图像处理过程和分析程序。图像的几何变换最重要的特征是仅改变像素的位置，而不改变图像的像素值。图像的几何变换按性质可以分为图像的位置变换(平移、镜像、旋转)、图像的形状变换(放大、缩小、错切)等基本变换,以及图像的复合变换等。&lt;/strong&gt;&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="OpenCV图像处理" scheme="https://code-jie123.github.io/categories/OpenCV%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
-    
-    
-    <category term="-python" scheme="https://code-jie123.github.io/tags/python/"/>
-    
-    <category term="-opencv" scheme="https://code-jie123.github.io/tags/opencv/"/>
-    
-    <category term="-图像处理" scheme="https://code-jie123.github.io/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>图像形态学</title>
-    <link href="https://code-jie123.github.io/2021/10/05/%E5%9B%BE%E5%83%8F%E5%BD%A2%E6%80%81%E5%AD%A6/"/>
-    <id>https://code-jie123.github.io/2021/10/05/%E5%9B%BE%E5%83%8F%E5%BD%A2%E6%80%81%E5%AD%A6/</id>
-    <published>2021-10-05T10:51:00.000Z</published>
-    <updated>2021-10-19T14:00:45.163Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;数学形态学是图像处理的重要工具，可用于获取&lt;strong&gt;图像边界&lt;/strong&gt;、&lt;strong&gt;提取骨架&lt;/strong&gt;、&lt;strong&gt;去除噪声&lt;/strong&gt;和&lt;strong&gt;检测角点&lt;/strong&gt;，其应用覆盖&lt;br&gt;&lt;strong&gt;文字识别&lt;/strong&gt;、&lt;strong&gt;视觉检测&lt;/strong&gt;和&lt;strong&gt;医学图像处理&lt;/strong&gt;等领域。&lt;/p&gt;
-&lt;p&gt;形态变换是一些基于图像形状的简单操作。形态学处理主要针对的是&lt;strong&gt;二值图像&lt;/strong&gt;(在图像中任何像素点的灰度值只有 0 或 255)&lt;/p&gt;
-&lt;p&gt;两种基本的形态学算子是&lt;strong&gt;腐蚀&lt;/strong&gt;和&lt;strong&gt;膨胀&lt;/strong&gt;。&lt;/p&gt;</summary>
     
     
     
